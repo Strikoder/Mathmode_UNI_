@@ -1,12 +1,12 @@
 ---
 ## Front matter
-title: "Шаблон отчёта по лабораторной работе № 2"
-subtitle: "Простейший вариант"
-author: "Яссин Мохамад Аламин"
+title: "lab № 2"
+subtitle: "variant 55"
+author: "Yassin Mohamad Alamin"
 
 ## Generic otions
 lang: ru-RU
-toc-title: "Содержание"
+toc-title: "Julia"
 
 ## Bibliography
 bibliography: bib/cite.bib
