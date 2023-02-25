@@ -1,4 +1,4 @@
-## [1.0.6](https://github.com/Strikoder/Mathmode/compare/labs...v1.0.6) (2023-02-25)
+## [1.0.6](https://github.com/Strikoder/Mathmode/compare/labs...v1.0.6) (2023-02-25) 
 
 
 ### Features
