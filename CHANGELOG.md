@@ -1,7 +1,9 @@
-## [1.0.5] (2023-02-18)
+## [1.0.6](https://github.com/Strikoder/Mathmode/compare/labs...v1.0.6) (2023-02-25)
+
 
 ### Features
-* Add files to lab02
+
+* **course:** add presentation & report elements ([ff902c9](https://github.com/Strikoder/Mathmode/commit/ff902c9f40eee6b0213c9a90de5b365d339c0e3a))
 
 ## [1.0.4](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.3...v1.0.4) (2023-02-07)
 
