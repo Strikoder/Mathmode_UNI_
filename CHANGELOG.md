@@ -1,4 +1,4 @@
-## [1.0.6](https://github.com/Strikoder/Mathmode/compare/v1.0.6...v1.0.7) (2023-03-04) 
+## [1.0.7](https://github.com/Strikoder/Mathmode/compare/v1.0.6...v1.0.7) (2023-03-04) 
 
 ### Features
 
