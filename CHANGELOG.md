@@ -1,3 +1,8 @@
+## [1.0.8](https://github.com/Strikoder/Mathmode/compare/v1.0.7...v1.0.8) (2023-03-11
+
+### Features
+
+* **course:** add presentation & report elements ([f7f3fac](https://github.com/Strikoder/Mathmode/commit/f7f3face9179c84a1e2c673771d9d006e7d71650))
 ## [1.0.7](https://github.com/Strikoder/Mathmode/compare/v1.0.6...v1.0.7) (2023-03-04) 
 
 ### Features
