@@ -1,3 +1,9 @@
+## [1.0.9](https://github.com/Strikoder/Mathmode/compare/v1.0.8...v1.0.9) (2023-03-18)
+
+### Features
+
+* **course:** add project files(third stage), presentation & report elements ([abd9003](https://github.com/Strikoder/Mathmode/commit/abd90030486a75cabc4f4432465d81d666c5ed56))
+
 ## [1.0.8](https://github.com/Strikoder/Mathmode/compare/v1.0.7...v1.0.8) (2023-03-11)
 
 ### Features
